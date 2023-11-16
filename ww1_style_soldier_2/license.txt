@@ -1,0 +1,11 @@
+Model Information:
+* title:	WW1 style soldier 2
+* source:	https://sketchfab.com/3d-models/ww1-style-soldier-2-7bc982fddf2a44c094e9747b6494e562
+* author:	unusual (https://sketchfab.com/unusualworldyt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WW1 style soldier 2" (https://sketchfab.com/3d-models/ww1-style-soldier-2-7bc982fddf2a44c094e9747b6494e562) by unusual (https://sketchfab.com/unusualworldyt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
