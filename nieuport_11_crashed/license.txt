@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nieuport 11 crashed
+* source:	https://sketchfab.com/3d-models/nieuport-11-crashed-5e1b0ea45b11487facd4a30e1abb447b
+* author:	senya.frozenov (https://sketchfab.com/senya.frozenov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nieuport 11 crashed" (https://sketchfab.com/3d-models/nieuport-11-crashed-5e1b0ea45b11487facd4a30e1abb447b) by senya.frozenov (https://sketchfab.com/senya.frozenov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
